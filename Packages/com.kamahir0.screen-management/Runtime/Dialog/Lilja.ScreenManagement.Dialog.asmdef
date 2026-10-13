@@ -1,0 +1,26 @@
+{
+  "name": "Lilja.ScreenManagement.Dialog",
+  "rootNamespace": "Lilja.ScreenManagement.Dialog",
+  "references": [
+    "Lilja.ScreenManagement",
+    "UniTask",
+    "UnityEngine.UI"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [
+    "LILJA_DEPENDENCY_UNITASK_PRESENT"
+  ],
+  "versionDefines": [
+    {
+      "name": "com.cysharp.unitask",
+      "expression": "",
+      "define": "LILJA_DEPENDENCY_UNITASK_PRESENT"
+    }
+  ],
+  "noEngineReferences": false
+}

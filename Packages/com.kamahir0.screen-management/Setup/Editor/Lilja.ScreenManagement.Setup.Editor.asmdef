@@ -1,0 +1,32 @@
+{
+  "name": "Lilja.ScreenManagement.Setup.Editor",
+  "rootNamespace": "Lilja.ScreenManagement.Setup.Editor",
+  "references": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [
+    {
+      "name": "com.cysharp.unitask",
+      "expression": "",
+      "define": "LILJA_DEPENDENCY_UNITASK_PRESENT"
+    },
+    {
+      "name": "com.cysharp.r3",
+      "expression": "",
+      "define": "LILJA_DEPENDENCY_R3_PRESENT"
+    },
+    {
+      "name": "org.nuget.r3",
+      "expression": "",
+      "define": "LILJA_DEPENDENCY_R3_PRESENT"
+    }
+  ],
+  "noEngineReferences": false
+}

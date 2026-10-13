@@ -1,0 +1,25 @@
+{
+  "name": "com.kamahir0.screen-management",
+  "displayName": "Lilja Screen Management",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "State-driven, declarative screen and dialog management system for Unity.",
+  "keywords": [
+    "lilja"
+  ],
+  "author": {
+    "name": "kamahir0",
+    "url": "https://github.com/kamahir0"
+  },
+  "documentationUrl": "https://github.com/kamahir0/Lilja/blob/main/lilja-packages/lilja.screen-management/README.md",
+  "changelogUrl": "https://github.com/kamahir0/Lilja/blob/main/lilja-packages/lilja.screen-management/CHANGELOG.md",
+  "licensesUrl": "https://github.com/kamahir0/Lilja/blob/main/LICENSE",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamahir0/ScreenManagement.git",
+    "directory": "Packages/com.kamahir0.screen-management"
+  }
+}
