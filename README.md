@@ -14,7 +14,7 @@ State-driven, declarative screen and dialog management system for Unity.
 Unity Editorの **Package Manager > [+] > Add package from git URL...** に以下を入力します：
 
 ```text
-https://github.com/kamahir0/ScreenManagement.git?path=/Packages/com.kamahir0.screen-management
+https://github.com/kamahir0-lilja/ScreenManagement.git?path=/Packages/com.kamahir0.screen-management
 ```
 
 特定のバージョンを指定する場合は、末尾にタグを付加してください（例: `#vcom.kamahir0.screen-management`）。
@@ -26,7 +26,7 @@ https://github.com/kamahir0/ScreenManagement.git?path=/Packages/com.kamahir0.scr
 ```json
 {
   "dependencies": {
-    "com.kamahir0.screen-management": "https://github.com/kamahir0/ScreenManagement.git?path=/Packages/com.kamahir0.screen-management"
+    "com.kamahir0.screen-management": "https://github.com/kamahir0-lilja/ScreenManagement.git?path=/Packages/com.kamahir0.screen-management"
   }
 }
 ```
